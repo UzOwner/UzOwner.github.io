@@ -245,6 +245,9 @@ a {
 	align-items: center;
 	justify-content: center;
 }
+.projects-item {
+	margin: 10px 30px;
+}
 .projects .projects-item a {
 	top: 50%;
 	left: 50%;
@@ -358,9 +361,8 @@ a {
 	align-items: flex-start;
 	justify-content: space-between;
 }
-.projects-item {
-	margin: 10px 30px;
-}
+.work-item {
+	margin: 20px 0px;
 .work hr {
 	left: 0;
 	top: 56px;
